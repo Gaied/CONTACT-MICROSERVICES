@@ -7,5 +7,5 @@ import com.example.demo.Produit;
 
 @RepositoryRestResource
 public interface ProduitRepositry extends JpaRepository<Produit, Long> {
-
+//Hello world
 }
