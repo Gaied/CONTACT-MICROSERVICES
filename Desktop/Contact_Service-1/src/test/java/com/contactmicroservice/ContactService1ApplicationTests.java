@@ -12,5 +12,5 @@ public class ContactService1ApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
+//ok
 }
