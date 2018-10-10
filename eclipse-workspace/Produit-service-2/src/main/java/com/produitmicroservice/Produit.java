@@ -43,7 +43,7 @@ public class Produit  implements Serializable {
 		this.designation = designation;
 		
 	}
-	
+	//nice job
 	
 }
 
